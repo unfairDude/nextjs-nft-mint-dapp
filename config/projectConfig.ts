@@ -1,13 +1,13 @@
 const projectConfig = {
-  nftName: 'SkullsInLove',
+  nftName: 'Aliens EVO',
 
-  nftSymbol: 'SIL',
+  nftSymbol: 'EVO',
 
-  maxSupply: 10000,
+  maxSupply: 5000,
 
   maxMintAmountPerTxn: 10,
 
-  mintCost: process.env.NODE_ENV === 'production' ? 100 : 0.01,
+  mintCost: process.env.NODE_ENV === 'production' ? 0.002129 : 0.002129,
 
   networkName:
     process.env.NODE_ENV === 'production'
@@ -38,7 +38,7 @@ const projectConfig = {
 
   contractAddress:
     process.env.NODE_ENV === 'production'
-      ? 'your_mainnet_contract_address'
+      ? '0xeA0DB3F834229aDA3F7660154E0Bd068b4823466'
       : 'your_testnet_contract_address',
 
   scanUrl:
