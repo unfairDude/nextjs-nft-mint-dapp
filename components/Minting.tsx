@@ -36,7 +36,7 @@ export default function Minting() {
           ABI,
           signer
         );
-        const transaction = await contract.mint(mintAmount, {
+        const transaction = await contract.mint(account, mintAmount, {
           value: totalWei,
         });
         setIsPending(false);
