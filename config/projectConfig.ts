@@ -7,7 +7,7 @@ const projectConfig = {
 
   maxMintAmountPerTxn: 10,
 
-  mintCost: process.env.NODE_ENV === 'production' ? 0.002129 : 0.002129,
+  mintCost: process.env.NODE_ENV === 'production' ? 5.5 : 5.5,
 
   networkName:
     process.env.NODE_ENV === 'production'
