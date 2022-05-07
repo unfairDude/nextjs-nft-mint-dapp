@@ -4,7 +4,7 @@ export default function Faq() {
       <h2 className="text-4xl mb-4">𝙈𝙄𝙉𝙏 & 𝙒𝙄𝙉 𝙋𝙍𝙊𝙅𝙀𝘾𝙏</h2>
       <div className="space-y-4">
         <div>
-          <h3 className="text-2xl mb-2">How much is the minting price?</h3>
+          <h3 className="text-2xl mb-2">𝙃𝙊𝙒 𝘿𝙊𝙀𝙎 𝙄𝙏 𝙒𝙊𝙍𝙆？</h3>
           <p>
           𝘞𝘩𝘦𝘯𝘦𝘷𝘦𝘳 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘪𝘯𝘵 𝘢𝘯 𝘼𝙡𝙞𝙚𝙣-𝙀𝙑𝙊 𝙉𝙁𝙏, 
           𝘵𝘩𝘦𝘳𝘦'𝘴 𝘢 𝘨𝘰𝘰𝘥 𝘤𝘩𝘢𝘯𝘤𝘦 𝘵𝘩𝘦𝘺'𝘭𝘭 𝘨𝘦𝘵 𝘴𝘰𝘮𝘦 𝙧𝙖𝙧𝙚 𝙩𝙧𝙖𝙞𝙩𝙨, 
