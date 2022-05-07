@@ -15,7 +15,11 @@ export default function Faq() {
             𝘈𝘯𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯&#39;𝘵 𝘸𝘪𝘯?<br></br>
             𝘞𝘦𝘭𝘭, 𝘺𝘰𝘶 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘪𝘲𝘶𝘦 𝘼𝙡𝙞𝙚𝙣𝙨-𝙀𝙑𝙊 𝙉𝙁𝙏
           </p>
-          <button className="wallet-btn btn">Like</button>
+            <a href="rewards.html"<button className="wallet-btn btn">
+            <span>Rewards And Lucky Traits</span>
+            </button>
+            </a>
+
         </div>
       </div>
     </>
