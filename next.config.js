@@ -1,10 +1,7 @@
-/** @type {import('next').NextConfig} */
-module.exports = {
-  reactStrictMode: true,
-};
 rewrites: async () => [
   {
-    source: "/public/rewards.html",
-    destination: "/pages/api/rewards.js",
+    source: "/public/myfile.html",
+    destination: "/pages/api/myfile.js",
   },
+],
 ],
