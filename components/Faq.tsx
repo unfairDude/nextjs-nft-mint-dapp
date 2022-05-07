@@ -6,13 +6,11 @@ export default function Faq() {
         <div>
           <h3 className="text-2xl mb-2">How much is the minting price?</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            𝘞𝘩𝘦𝘯𝘦𝘷𝘦𝘳 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘪𝘯𝘵 𝘢𝘯 𝘼𝙡𝙞𝙚𝙣𝙨-𝙀𝙑𝙊 𝙉𝙁𝙏, 
+            𝘵𝘩𝘦𝘳𝘦'𝘴 𝘢 𝘨𝘰𝘰𝘥 𝘤𝘩𝘢𝘯𝘤𝘦 𝘵𝘩𝘦𝘺'𝘭𝘭 𝘨𝘦𝘵 𝘴𝘰𝘮𝘦 𝙧𝙖𝙧𝙚 𝙩𝙧𝙖𝙞𝙩𝙨, 
+            𝘸𝘩𝘪𝘤𝘩 𝘣𝘢𝘴𝘦𝘥 𝘰𝘯 𝘳𝘢𝘳𝘪𝘵𝘺, 𝘸𝘪𝘭𝘭 𝘣𝘦 𝙧𝙚𝙬𝙖𝙧𝙙𝙚𝙙 𝙬𝙞𝙩𝙝 𝙪𝙥 𝙩𝙤 𝟓𝟎𝟎$𝙈𝘼𝙏𝙄𝘾
+            𝘠𝘰𝘶 𝘤𝘢𝘯 𝘵𝘩𝘪𝘯𝘬 𝘰𝘧 𝘵𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘢𝘴 𝘢𝘯 𝘼𝙧𝙩 𝙘𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 + 𝘽𝙊𝙉𝙐𝙎
+            𝘈𝘯𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯'𝘵 𝘸𝘪𝘯? 𝘞𝘦𝘭𝘭, 𝘺𝘰𝘶 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘪𝘲𝘶𝘦 𝘼𝙡𝙞𝙚𝙣𝙨𝙀𝙑𝙊 𝙉𝙁𝙏
           </p>
         </div>
       </div>
