@@ -24,7 +24,7 @@ const Home: NextPage = () => {
         <Prose>
           <h1 className="text-5xl font-bold mb-2">{projectConfig.nftName}</h1>
           <p className="text-xl">
-            hrllo
+            hrllo by
           </p>
         </Prose>
       </div>
