@@ -22,8 +22,9 @@ const Home: NextPage = () => {
 
       <div className="bg-gray-800 py-8">
         <Prose>
-          <h1 className="text-5xl mb-2">𝘼𝙇𝙄𝙀𝙉𝙎-𝙀𝙑𝙊</h1>
+          <h1 className="text-6xl mb-2">𝘼𝙇𝙄𝙀𝙉𝙎-𝙀𝙑𝙊</h1>
           <p className="text-xl">
+          <br></br>
           𝘼𝙡𝙞𝙚𝙣𝙨-𝙀𝙑𝙊 𝘪𝘴 𝘢 𝘤𝘰𝘰𝘭 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 &nbsp;5000 𝘶𝘯𝘪𝘲𝘶𝘦 𝘈𝘭𝘪𝘦𝘯𝘴.<br></br>
           𝘛𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘸𝘢𝘴 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘧𝘰𝘳 𝘢𝘭𝘭 𝘢𝘳𝘵 𝘭𝘰𝘷𝘦𝘳𝘴, 𝘐𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨<br></br>
           𝙖𝙣𝙮𝙤𝙣𝙚 𝙬𝙝𝙤 𝙝𝙖𝙫𝙚 𝙣𝙤𝙩 𝙮𝙚𝙩 𝙚𝙣𝙩𝙚𝙧𝙚𝙙 𝙩𝙝𝙚 𝙉𝙁𝙏𝙨 𝙬𝙤𝙧𝙡𝙙.<br></br>
