@@ -24,13 +24,11 @@ const Home: NextPage = () => {
         <Prose>
           <h1 className="text-5xl font-bold mb-2">{projectConfig.nftName}</h1>
           <p className="text-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            𝘼𝙡𝙞𝙚𝙣-𝙀𝙑𝙊 𝘪𝘴 𝘢 𝘤𝘰𝘰𝘭 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 5000 𝘶𝘯𝘪𝘲𝘶𝘦 𝘈𝘭𝘪𝘦𝘯𝘴.
+            𝘛𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘸𝘢𝘴 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘧𝘰𝘳 𝘢𝘭𝘭 𝘢𝘳𝘵 𝘭𝘰𝘷𝘦𝘳𝘴, 
+            𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝙖𝙡𝙡 𝙩𝙝𝙤𝙨𝙚 𝙬𝙝𝙤 𝙝𝙖𝙫𝙚 𝙣𝙤𝙩 𝙮𝙚𝙩 𝙚𝙣𝙩𝙚𝙧𝙚𝙙 𝙩𝙝𝙚 𝙉𝙁𝙏𝙨 𝙬𝙤𝙧𝙡𝙙.
+            𝘞𝘦 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘢𝘯 𝘕𝘍𝘛 𝘵𝘩𝘢𝘵 𝘩𝘢𝘴 𝘢 𝙍𝙀𝘼𝙇 𝙒𝙊𝙍𝙇𝘿 𝙐𝙎𝙀
+            𝘢𝘯𝘥 𝘸𝘢𝘯𝘵𝘴 𝘵𝘰 𝘣𝘳𝘪𝘯𝘨 𝘺𝘰𝘶 𝙘𝙡𝙤𝙨𝙚𝙧 𝙩𝙤 𝙩𝙝𝙞𝙨 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙚,𝘴𝘵𝘦𝘱 𝘣𝘺 𝘴𝘵𝘦𝘱.
           </p>
         </Prose>
       </div>

@@ -1,19 +1,21 @@
 export default function Faq() {
   return (
     <>
-      <h2 className="text-4xl mb-4">FAQ</h2>
+      <h2 className="text-4xl mb-4">Mint & Win</h2>
       <div className="space-y-4">
         <div>
           <h3 className="text-2xl mb-2">How much is the minting price?</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
+          𝘞𝘩𝘢𝘵 𝘢𝘣𝘰𝘶𝘵 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘤𝘩𝘢𝘯𝘤𝘦 𝘵𝘰 𝘸𝘪𝘯 𝘶𝘱 𝘵𝘰 500$ 𝘪𝘯 𝘔𝘈𝘛𝘐𝘊 𝘦𝘷𝘦𝘳𝘺𝘵𝘪𝘮𝘦 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶 𝘮𝘪𝘯𝘵 𝘢𝘯 𝘈𝘭𝘪𝘦𝘯?
+          𝘈𝘯𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯'𝘵 𝘸𝘪𝘯?
+          𝘞𝘦𝘭𝘭, 𝘺𝘰𝘶 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘪𝘲𝘶𝘦 𝘈𝘭𝘪𝘦𝘯𝘴-𝘌𝘝𝘖 𝘕𝘍𝘛.
+          𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘵𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘭𝘪𝘬𝘦 𝘢𝘯 𝘼𝙧𝙩 𝙘𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 + 𝘽𝙊𝙉𝙐𝙎
+          <br>
+          𝘞𝘩𝘦𝘯𝘦𝘷𝘦𝘳 𝘴𝘰𝘮𝘦𝘰𝘯𝘦 𝘮𝘪𝘯𝘵 𝘢𝘯 𝘼𝙡𝙞𝙚𝙣-𝙀𝙑𝙊 𝙉𝙁𝙏,
+          𝘵𝘩𝘦𝘳𝘦'𝘴 𝘢 𝘨𝘰𝘰𝘥 𝘤𝘩𝘢𝘯𝘤𝘦 𝘵𝘩𝘦𝘺'𝘭𝘭 𝘨𝘦𝘵 𝘴𝘰𝘮𝘦 𝙧𝙖𝙧𝙚 𝙩𝙧𝙖𝙞𝙩𝙨, 
+          𝘸𝘩𝘪𝘤𝘩 𝘣𝘢𝘴𝘦𝘥 𝘰𝘯 𝘳𝘢𝘳𝘪𝘵𝘺, 𝘸𝘪𝘭𝘭 𝘣𝘦 𝙧𝙚𝙬𝙖𝙧𝙙𝙚𝙙 𝙬𝙞𝙩𝙝 𝙪𝙥 𝙩𝙤 𝟓𝟎𝟎$𝙈𝘼𝙏𝙄𝘾
+          
+
         </div>
       </div>
     </>
