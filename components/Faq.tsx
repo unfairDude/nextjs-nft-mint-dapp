@@ -15,15 +15,12 @@ export default function Faq() {
             𝘈𝘯𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯&#39;𝘵 𝘸𝘪𝘯?<br></br>
             𝘞𝘦𝘭𝘭, 𝘺𝘰𝘶 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘪𝘲𝘶𝘦 𝘼𝙡𝙞𝙚𝙣𝙨-𝙀𝙑𝙊 𝙉𝙁𝙏
           </p>
+          <a href="prizes.html"<button class="wallet-btn btn">
+          <span>Rewards and Lucky Traits</span>
+        </button>
+        </a>
         </div>
       </div>
-      <div class="flex justify-center">
-        <button type="button" class="flex justify-center items-center space-x-2 border-2 border-gray-500 hover:border-gray-400 bg-gray-800 rounded-full px-4 py-2 w-40">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-            <path d="M461.2 128H80c-8.84 0-16-7.16-16-16s7.16-16 16-16h384c8.84 0 16-7.16 16-16 0-26.51-21.49-48-48-48H64C28.65 32 0 60.65 0 96v320c0 35.35 28.65 64 64 64h397.2c28.02 0 50.8-21.53 50.8-48V176c0-26.47-22.78-48-50.8-48zM416 336c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z">
-              </path>
-              </svg>
-              <span>𝙍𝙚𝙬𝙖𝙧𝙙𝙨 𝘼𝙣𝙙 𝙇𝙪𝙘𝙠𝙮 𝙏𝙧𝙖𝙞𝙩𝙨</span></button></div>
     </>
   );
 }
