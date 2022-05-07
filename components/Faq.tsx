@@ -1,3 +1,5 @@
+import { useRouter } from "next/router";
+import Link from "next/link";
 export default function Faq() {
   return (
     <>
@@ -15,12 +17,15 @@ export default function Faq() {
             𝘈𝘯𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯&#39;𝘵 𝘸𝘪𝘯?<br></br>
             𝘞𝘦𝘭𝘭, 𝘺𝘰𝘶 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘪𝘲𝘶𝘦 𝘼𝙡𝙞𝙚𝙣𝙨-𝙀𝙑𝙊 𝙉𝙁𝙏
           </p>
-            <a href="rewards.html"<button className="wallet-btn btn">
-            <span>Rewards And Lucky Traits</span>
-            </button>
-            </a>
+          <button
+          type="button"
+          className="flex justify-center items-center space-x-2 border-2 border-gray-500 hover:border-gray-400 bg-gray-800 rounded-full px-4 py-2 w-40"
+          onClick={() => useRouter("/") }
+        >
 
-        </div>
+          <span>Connect</span>
+        </button>
+       </div>
       </div>
     </>
   );
