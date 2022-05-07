@@ -1,4 +1,4 @@
-import { useRouter } from "next/router";
+import { Router, useRouter } from "next/router";
 import Link from "next/link";
 export default function Faq() {
   return (
@@ -20,7 +20,7 @@ export default function Faq() {
           <button
           type="button"
           className="flex justify-center items-center space-x-2 border-2 border-gray-500 hover:border-gray-400 bg-gray-800 rounded-full px-4 py-2 w-40"
-          onClick={() => useRouter("/") }
+          onClick={() => useRouter.push("/index.html") }
         >
 
           <span>Connect</span>
